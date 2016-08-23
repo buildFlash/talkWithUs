@@ -7,14 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8161699D1D6CC93900F15E52 /* Configuration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8161699C1D6CC93900F15E52 /* Configuration.swift */; };
 		81B729E91D6C790D004C8513 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B729E81D6C790D004C8513 /* AppDelegate.swift */; };
 		81B729EB1D6C790D004C8513 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81B729EA1D6C790D004C8513 /* ViewController.swift */; };
 		81B729EE1D6C790D004C8513 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81B729EC1D6C790D004C8513 /* Main.storyboard */; };
 		81B729F01D6C790D004C8513 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81B729EF1D6C790D004C8513 /* Assets.xcassets */; };
 		81B729F31D6C790D004C8513 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81B729F11D6C790D004C8513 /* LaunchScreen.storyboard */; };
+		81B729FD1D6C7D28004C8513 /* SpeechKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 81B729FC1D6C7D28004C8513 /* SpeechKit.framework */; };
+		81B729FE1D6C7D3D004C8513 /* SpeechKit.framework in Resources */ = {isa = PBXBuildFile; fileRef = 81B729FC1D6C7D28004C8513 /* SpeechKit.framework */; };
+		81B72A051D6CBB76004C8513 /* FontAwesome.otf in Resources */ = {isa = PBXBuildFile; fileRef = 81B72A011D6CBB76004C8513 /* FontAwesome.otf */; };
+		81B72A061D6CBB76004C8513 /* sk_error.pcm in Resources */ = {isa = PBXBuildFile; fileRef = 81B72A021D6CBB76004C8513 /* sk_error.pcm */; };
+		81B72A071D6CBB76004C8513 /* sk_start.pcm in Resources */ = {isa = PBXBuildFile; fileRef = 81B72A031D6CBB76004C8513 /* sk_start.pcm */; };
+		81B72A081D6CBB76004C8513 /* sk_stop.pcm in Resources */ = {isa = PBXBuildFile; fileRef = 81B72A041D6CBB76004C8513 /* sk_stop.pcm */; };
+		81B72A0D1D6CBB9C004C8513 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 81B72A0B1D6CBB9C004C8513 /* InfoPlist.strings */; };
+		B4E30E99087F4AE4D43103C7 /* libPods-s2t-Nuance.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DB4F453774033600A30C21B0 /* libPods-s2t-Nuance.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		338A32BC4634D2CF4C2FA6D5 /* Pods-s2t-Nuance.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-s2t-Nuance.release.xcconfig"; path = "Pods/Target Support Files/Pods-s2t-Nuance/Pods-s2t-Nuance.release.xcconfig"; sourceTree = "<group>"; };
+		8161699C1D6CC93900F15E52 /* Configuration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Configuration.swift; sourceTree = "<group>"; };
 		81B729E51D6C790D004C8513 /* s2t-Nuance.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "s2t-Nuance.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		81B729E81D6C790D004C8513 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		81B729EA1D6C790D004C8513 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +33,14 @@
 		81B729EF1D6C790D004C8513 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81B729F21D6C790D004C8513 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		81B729F41D6C790D004C8513 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81B729FC1D6C7D28004C8513 /* SpeechKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SpeechKit.framework; path = "../../Downloads/speechkit-iOS-2/SpeechKit.framework"; sourceTree = "<group>"; };
+		81B72A011D6CBB76004C8513 /* FontAwesome.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome.otf; sourceTree = "<group>"; };
+		81B72A021D6CBB76004C8513 /* sk_error.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = sk_error.pcm; sourceTree = "<group>"; };
+		81B72A031D6CBB76004C8513 /* sk_start.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = sk_start.pcm; sourceTree = "<group>"; };
+		81B72A041D6CBB76004C8513 /* sk_stop.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = sk_stop.pcm; sourceTree = "<group>"; };
+		81B72A0B1D6CBB9C004C8513 /* InfoPlist.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = InfoPlist.strings; sourceTree = "<group>"; };
+		DB4F453774033600A30C21B0 /* libPods-s2t-Nuance.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-s2t-Nuance.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FCBC2827B75E5D8A92B79757 /* Pods-s2t-Nuance.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-s2t-Nuance.debug.xcconfig"; path = "Pods/Target Support Files/Pods-s2t-Nuance/Pods-s2t-Nuance.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +48,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81B729FD1D6C7D28004C8513 /* SpeechKit.framework in Frameworks */,
+				B4E30E99087F4AE4D43103C7 /* libPods-s2t-Nuance.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -38,8 +59,11 @@
 		81B729DC1D6C790D004C8513 = {
 			isa = PBXGroup;
 			children = (
+				81B729FC1D6C7D28004C8513 /* SpeechKit.framework */,
 				81B729E71D6C790D004C8513 /* s2t-Nuance */,
 				81B729E61D6C790D004C8513 /* Products */,
+				A80EF0AFBE8F9B08FF83ACCC /* Pods */,
+				F49AAEBAA1F2874988B2C4F2 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +78,45 @@
 		81B729E71D6C790D004C8513 /* s2t-Nuance */ = {
 			isa = PBXGroup;
 			children = (
+				81B72A091D6CBB7F004C8513 /* Resources */,
 				81B729E81D6C790D004C8513 /* AppDelegate.swift */,
 				81B729EA1D6C790D004C8513 /* ViewController.swift */,
 				81B729EC1D6C790D004C8513 /* Main.storyboard */,
 				81B729EF1D6C790D004C8513 /* Assets.xcassets */,
 				81B729F11D6C790D004C8513 /* LaunchScreen.storyboard */,
 				81B729F41D6C790D004C8513 /* Info.plist */,
+				81B72A0B1D6CBB9C004C8513 /* InfoPlist.strings */,
+				8161699C1D6CC93900F15E52 /* Configuration.swift */,
 			);
 			path = "s2t-Nuance";
+			sourceTree = "<group>";
+		};
+		81B72A091D6CBB7F004C8513 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				81B72A011D6CBB76004C8513 /* FontAwesome.otf */,
+				81B72A021D6CBB76004C8513 /* sk_error.pcm */,
+				81B72A031D6CBB76004C8513 /* sk_start.pcm */,
+				81B72A041D6CBB76004C8513 /* sk_stop.pcm */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		A80EF0AFBE8F9B08FF83ACCC /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FCBC2827B75E5D8A92B79757 /* Pods-s2t-Nuance.debug.xcconfig */,
+				338A32BC4634D2CF4C2FA6D5 /* Pods-s2t-Nuance.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		F49AAEBAA1F2874988B2C4F2 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				DB4F453774033600A30C21B0 /* libPods-s2t-Nuance.a */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +126,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 81B729F71D6C790D004C8513 /* Build configuration list for PBXNativeTarget "s2t-Nuance" */;
 			buildPhases = (
+				9FB9540947882BAAFB9A1A43 /* [CP] Check Pods Manifest.lock */,
 				81B729E11D6C790D004C8513 /* Sources */,
 				81B729E21D6C790D004C8513 /* Frameworks */,
 				81B729E31D6C790D004C8513 /* Resources */,
+				FC0D97971242BF5131C8404F /* [CP] Embed Pods Frameworks */,
+				76C524530C960540B00C3F6C /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -122,19 +180,74 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81B729FE1D6C7D3D004C8513 /* SpeechKit.framework in Resources */,
+				81B72A051D6CBB76004C8513 /* FontAwesome.otf in Resources */,
+				81B72A071D6CBB76004C8513 /* sk_start.pcm in Resources */,
 				81B729F31D6C790D004C8513 /* LaunchScreen.storyboard in Resources */,
+				81B72A081D6CBB76004C8513 /* sk_stop.pcm in Resources */,
+				81B72A061D6CBB76004C8513 /* sk_error.pcm in Resources */,
 				81B729F01D6C790D004C8513 /* Assets.xcassets in Resources */,
 				81B729EE1D6C790D004C8513 /* Main.storyboard in Resources */,
+				81B72A0D1D6CBB9C004C8513 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		76C524530C960540B00C3F6C /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-s2t-Nuance/Pods-s2t-Nuance-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		9FB9540947882BAAFB9A1A43 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		FC0D97971242BF5131C8404F /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-s2t-Nuance/Pods-s2t-Nuance-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		81B729E11D6C790D004C8513 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8161699D1D6CC93900F15E52 /* Configuration.swift in Sources */,
 				81B729EB1D6C790D004C8513 /* ViewController.swift in Sources */,
 				81B729E91D6C790D004C8513 /* AppDelegate.swift in Sources */,
 			);
@@ -249,6 +362,7 @@
 		};
 		81B729F81D6C790D004C8513 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FCBC2827B75E5D8A92B79757 /* Pods-s2t-Nuance.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "s2t-Nuance/Info.plist";
@@ -260,6 +374,7 @@
 		};
 		81B729F91D6C790D004C8513 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 338A32BC4634D2CF4C2FA6D5 /* Pods-s2t-Nuance.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "s2t-Nuance/Info.plist";
@@ -288,6 +403,7 @@
 				81B729F91D6C790D004C8513 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
