@@ -20,10 +20,91 @@
 		81B72A071D6CBB76004C8513 /* sk_start.pcm in Resources */ = {isa = PBXBuildFile; fileRef = 81B72A031D6CBB76004C8513 /* sk_start.pcm */; };
 		81B72A081D6CBB76004C8513 /* sk_stop.pcm in Resources */ = {isa = PBXBuildFile; fileRef = 81B72A041D6CBB76004C8513 /* sk_stop.pcm */; };
 		81B72A0D1D6CBB9C004C8513 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 81B72A0B1D6CBB9C004C8513 /* InfoPlist.strings */; };
-		B4E30E99087F4AE4D43103C7 /* libPods-s2t-Nuance.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DB4F453774033600A30C21B0 /* libPods-s2t-Nuance.a */; };
+		E71E80F31DEAAF8E0076BA8F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E71E80F21DEAAF8E0076BA8F /* GoogleService-Info.plist */; };
+		E73F046C1DEA2BC6003B28EE /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E73F046A1DEA29EE003B28EE /* Alamofire.framework */; };
+		E7DD32D21DEA420D0078DB65 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7DD32D11DEA420D0078DB65 /* Alamofire.framework */; };
+		E7E9A7991DEB0D88003ADFA5 /* ass.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7691DEB0D88003ADFA5 /* ass.mp4 */; };
+		E7E9A79A1DEB0D88003ADFA5 /* god.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A76A1DEB0D88003ADFA5 /* god.mp4 */; };
+		E7E9A79B1DEB0D88003ADFA5 /* good.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A76B1DEB0D88003ADFA5 /* good.mp4 */; };
+		E7E9A79C1DEB0D88003ADFA5 /* google.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A76C1DEB0D88003ADFA5 /* google.mp4 */; };
+		E7E9A79D1DEB0D88003ADFA5 /* had.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A76D1DEB0D88003ADFA5 /* had.mp4 */; };
+		E7E9A79E1DEB0D88003ADFA5 /* hair.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A76E1DEB0D88003ADFA5 /* hair.mp4 */; };
+		E7E9A79F1DEB0D88003ADFA5 /* hands.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A76F1DEB0D88003ADFA5 /* hands.mp4 */; };
+		E7E9A7A01DEB0D88003ADFA5 /* handsome.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7701DEB0D88003ADFA5 /* handsome.mp4 */; };
+		E7E9A7A11DEB0D88003ADFA5 /* happen.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7711DEB0D88003ADFA5 /* happen.mp4 */; };
+		E7E9A7A21DEB0D88003ADFA5 /* happy.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7721DEB0D88003ADFA5 /* happy.mp4 */; };
+		E7E9A7A31DEB0D88003ADFA5 /* has.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7731DEB0D88003ADFA5 /* has.mp4 */; };
+		E7E9A7A41DEB0D88003ADFA5 /* he.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7741DEB0D88003ADFA5 /* he.mp4 */; };
+		E7E9A7A51DEB0D88003ADFA5 /* height.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7751DEB0D88003ADFA5 /* height.mp4 */; };
+		E7E9A7A61DEB0D88003ADFA5 /* hello.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7761DEB0D88003ADFA5 /* hello.mp4 */; };
+		E7E9A7A71DEB0D88003ADFA5 /* here.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7771DEB0D88003ADFA5 /* here.mp4 */; };
+		E7E9A7A81DEB0D88003ADFA5 /* hot.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7781DEB0D88003ADFA5 /* hot.mp4 */; };
+		E7E9A7A91DEB0D88003ADFA5 /* how.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7791DEB0D88003ADFA5 /* how.mp4 */; };
+		E7E9A7AA1DEB0D88003ADFA5 /* hug.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A77A1DEB0D88003ADFA5 /* hug.mp4 */; };
+		E7E9A7AB1DEB0D88003ADFA5 /* human.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A77B1DEB0D88003ADFA5 /* human.mp4 */; };
+		E7E9A7AC1DEB0D88003ADFA5 /* job.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A77C1DEB0D88003ADFA5 /* job.mp4 */; };
+		E7E9A7AD1DEB0D88003ADFA5 /* wait.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A77D1DEB0D88003ADFA5 /* wait.mp4 */; };
+		E7E9A7AE1DEB0D88003ADFA5 /* was.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A77E1DEB0D88003ADFA5 /* was.mp4 */; };
+		E7E9A7AF1DEB0D88003ADFA5 /* water.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A77F1DEB0D88003ADFA5 /* water.mp4 */; };
+		E7E9A7B01DEB0D88003ADFA5 /* we.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7801DEB0D88003ADFA5 /* we.mp4 */; };
+		E7E9A7B11DEB0D88003ADFA5 /* wear.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7811DEB0D88003ADFA5 /* wear.mp4 */; };
+		E7E9A7B21DEB0D88003ADFA5 /* went.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7821DEB0D88003ADFA5 /* went.mp4 */; };
+		E7E9A7B31DEB0D88003ADFA5 /* what.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7831DEB0D88003ADFA5 /* what.mp4 */; };
+		E7E9A7B41DEB0D88003ADFA5 /* when.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7841DEB0D88003ADFA5 /* when.mp4 */; };
+		E7E9A7B51DEB0D88003ADFA5 /* where.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7851DEB0D88003ADFA5 /* where.mp4 */; };
+		E7E9A7B61DEB0D88003ADFA5 /* whether.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7861DEB0D88003ADFA5 /* whether.mp4 */; };
+		E7E9A7B71DEB0D88003ADFA5 /* which.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7871DEB0D88003ADFA5 /* which.mp4 */; };
+		E7E9A7B81DEB0D88003ADFA5 /* while.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7881DEB0D88003ADFA5 /* while.mp4 */; };
+		E7E9A7B91DEB0D88003ADFA5 /* who.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7891DEB0D88003ADFA5 /* who.mp4 */; };
+		E7E9A7BA1DEB0D88003ADFA5 /* whole.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A78A1DEB0D88003ADFA5 /* whole.mp4 */; };
+		E7E9A7BB1DEB0D88003ADFA5 /* why.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A78B1DEB0D88003ADFA5 /* why.mp4 */; };
+		E7E9A7BC1DEB0D88003ADFA5 /* will.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A78C1DEB0D88003ADFA5 /* will.mp4 */; };
+		E7E9A7BD1DEB0D88003ADFA5 /* win.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A78D1DEB0D88003ADFA5 /* win.mp4 */; };
+		E7E9A7BE1DEB0D88003ADFA5 /* wipe.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A78E1DEB0D88003ADFA5 /* wipe.mp4 */; };
+		E7E9A7BF1DEB0D88003ADFA5 /* wood.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A78F1DEB0D88003ADFA5 /* wood.mp4 */; };
+		E7E9A7C01DEB0D88003ADFA5 /* word.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7901DEB0D88003ADFA5 /* word.mp4 */; };
+		E7E9A7C11DEB0D88003ADFA5 /* work.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7911DEB0D88003ADFA5 /* work.mp4 */; };
+		E7E9A7C21DEB0D88003ADFA5 /* worry.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7921DEB0D88003ADFA5 /* worry.mp4 */; };
+		E7E9A7C31DEB0D88003ADFA5 /* worse.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7931DEB0D88003ADFA5 /* worse.mp4 */; };
+		E7E9A7C41DEB0D88003ADFA5 /* worth.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7941DEB0D88003ADFA5 /* worth.mp4 */; };
+		E7E9A7C51DEB0D88003ADFA5 /* worthless.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7951DEB0D88003ADFA5 /* worthless.mp4 */; };
+		E7E9A7C61DEB0D88003ADFA5 /* would.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7961DEB0D88003ADFA5 /* would.mp4 */; };
+		E7E9A7C71DEB0D88003ADFA5 /* wrestler.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7971DEB0D88003ADFA5 /* wrestler.mp4 */; };
+		E7E9A7C81DEB0D88003ADFA5 /* wrong.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7981DEB0D88003ADFA5 /* wrong.mp4 */; };
+		E7E9A7CB1DEB0D9B003ADFA5 /* afternoon.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7C91DEB0D9B003ADFA5 /* afternoon.mp4 */; };
+		E7E9A7CC1DEB0D9B003ADFA5 /* age.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7CA1DEB0D9B003ADFA5 /* age.mp4 */; };
+		E7E9A7DB1DEB0DA7003ADFA5 /* can.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7CD1DEB0DA7003ADFA5 /* can.mp4 */; };
+		E7E9A7DC1DEB0DA7003ADFA5 /* do.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7CE1DEB0DA7003ADFA5 /* do.mp4 */; };
+		E7E9A7DD1DEB0DA7003ADFA5 /* dog.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7CF1DEB0DA7003ADFA5 /* dog.mp4 */; };
+		E7E9A7DE1DEB0DA7003ADFA5 /* doing.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7D01DEB0DA7003ADFA5 /* doing.mp4 */; };
+		E7E9A7DF1DEB0DA7003ADFA5 /* evening.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7D11DEB0DA7003ADFA5 /* evening.mp4 */; };
+		E7E9A7E01DEB0DA7003ADFA5 /* feeling.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7D21DEB0DA7003ADFA5 /* feeling.mp4 */; };
+		E7E9A7E11DEB0DA7003ADFA5 /* going.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7D31DEB0DA7003ADFA5 /* going.mp4 */; };
+		E7E9A7E21DEB0DA7003ADFA5 /* help.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7D41DEB0DA7003ADFA5 /* help.mp4 */; };
+		E7E9A7E31DEB0DA7003ADFA5 /* hungry.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7D51DEB0DA7003ADFA5 /* hungry.mp4 */; };
+		E7E9A7E41DEB0DA7003ADFA5 /* i.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7D61DEB0DA7003ADFA5 /* i.mp4 */; };
+		E7E9A7E51DEB0DA7003ADFA5 /* morning.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7D71DEB0DA7003ADFA5 /* morning.mp4 */; };
+		E7E9A7E61DEB0DA7003ADFA5 /* name.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7D81DEB0DA7003ADFA5 /* name.mp4 */; };
+		E7E9A7E71DEB0DA7003ADFA5 /* night.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7D91DEB0DA7003ADFA5 /* night.mp4 */; };
+		E7E9A7E81DEB0DA7003ADFA5 /* your.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E7E9A7DA1DEB0DA7003ADFA5 /* your.mp4 */; };
+		F7A89913C99A4AF91A2AEF7B /* Pods_s2t_Nuance.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 330F2702AFBB213E50325118 /* Pods_s2t_Nuance.framework */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		E73F04671DEA242B003B28EE /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 8;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		330F2702AFBB213E50325118 /* Pods_s2t_Nuance.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_s2t_Nuance.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		338A32BC4634D2CF4C2FA6D5 /* Pods-s2t-Nuance.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-s2t-Nuance.release.xcconfig"; path = "Pods/Target Support Files/Pods-s2t-Nuance/Pods-s2t-Nuance.release.xcconfig"; sourceTree = "<group>"; };
 		8161699C1D6CC93900F15E52 /* Configuration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Configuration.swift; sourceTree = "<group>"; };
 		81B729E51D6C790D004C8513 /* s2t-Nuance.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "s2t-Nuance.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -39,7 +120,73 @@
 		81B72A031D6CBB76004C8513 /* sk_start.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = sk_start.pcm; sourceTree = "<group>"; };
 		81B72A041D6CBB76004C8513 /* sk_stop.pcm */ = {isa = PBXFileReference; lastKnownFileType = file; path = sk_stop.pcm; sourceTree = "<group>"; };
 		81B72A0B1D6CBB9C004C8513 /* InfoPlist.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = InfoPlist.strings; sourceTree = "<group>"; };
-		DB4F453774033600A30C21B0 /* libPods-s2t-Nuance.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-s2t-Nuance.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E71E80F21DEAAF8E0076BA8F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		E73F046A1DEA29EE003B28EE /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = "/Users/aryansharma/Downloads/s2t-Nuance 2/Carthage/Build/iOS/Alamofire.framework"; sourceTree = "<absolute>"; };
+		E7DD32D11DEA420D0078DB65 /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Alamofire.framework; sourceTree = "<group>"; };
+		E7E9A7691DEB0D88003ADFA5 /* ass.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = ass.mp4; sourceTree = "<group>"; };
+		E7E9A76A1DEB0D88003ADFA5 /* god.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = god.mp4; sourceTree = "<group>"; };
+		E7E9A76B1DEB0D88003ADFA5 /* good.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = good.mp4; sourceTree = "<group>"; };
+		E7E9A76C1DEB0D88003ADFA5 /* google.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = google.mp4; sourceTree = "<group>"; };
+		E7E9A76D1DEB0D88003ADFA5 /* had.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = had.mp4; sourceTree = "<group>"; };
+		E7E9A76E1DEB0D88003ADFA5 /* hair.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = hair.mp4; sourceTree = "<group>"; };
+		E7E9A76F1DEB0D88003ADFA5 /* hands.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = hands.mp4; sourceTree = "<group>"; };
+		E7E9A7701DEB0D88003ADFA5 /* handsome.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = handsome.mp4; sourceTree = "<group>"; };
+		E7E9A7711DEB0D88003ADFA5 /* happen.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = happen.mp4; sourceTree = "<group>"; };
+		E7E9A7721DEB0D88003ADFA5 /* happy.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = happy.mp4; sourceTree = "<group>"; };
+		E7E9A7731DEB0D88003ADFA5 /* has.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = has.mp4; sourceTree = "<group>"; };
+		E7E9A7741DEB0D88003ADFA5 /* he.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = he.mp4; sourceTree = "<group>"; };
+		E7E9A7751DEB0D88003ADFA5 /* height.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = height.mp4; sourceTree = "<group>"; };
+		E7E9A7761DEB0D88003ADFA5 /* hello.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = hello.mp4; sourceTree = "<group>"; };
+		E7E9A7771DEB0D88003ADFA5 /* here.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = here.mp4; sourceTree = "<group>"; };
+		E7E9A7781DEB0D88003ADFA5 /* hot.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = hot.mp4; sourceTree = "<group>"; };
+		E7E9A7791DEB0D88003ADFA5 /* how.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = how.mp4; sourceTree = "<group>"; };
+		E7E9A77A1DEB0D88003ADFA5 /* hug.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = hug.mp4; sourceTree = "<group>"; };
+		E7E9A77B1DEB0D88003ADFA5 /* human.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = human.mp4; sourceTree = "<group>"; };
+		E7E9A77C1DEB0D88003ADFA5 /* job.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = job.mp4; sourceTree = "<group>"; };
+		E7E9A77D1DEB0D88003ADFA5 /* wait.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = wait.mp4; sourceTree = "<group>"; };
+		E7E9A77E1DEB0D88003ADFA5 /* was.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = was.mp4; sourceTree = "<group>"; };
+		E7E9A77F1DEB0D88003ADFA5 /* water.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = water.mp4; sourceTree = "<group>"; };
+		E7E9A7801DEB0D88003ADFA5 /* we.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = we.mp4; sourceTree = "<group>"; };
+		E7E9A7811DEB0D88003ADFA5 /* wear.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = wear.mp4; sourceTree = "<group>"; };
+		E7E9A7821DEB0D88003ADFA5 /* went.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = went.mp4; sourceTree = "<group>"; };
+		E7E9A7831DEB0D88003ADFA5 /* what.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = what.mp4; sourceTree = "<group>"; };
+		E7E9A7841DEB0D88003ADFA5 /* when.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = when.mp4; sourceTree = "<group>"; };
+		E7E9A7851DEB0D88003ADFA5 /* where.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = where.mp4; sourceTree = "<group>"; };
+		E7E9A7861DEB0D88003ADFA5 /* whether.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = whether.mp4; sourceTree = "<group>"; };
+		E7E9A7871DEB0D88003ADFA5 /* which.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = which.mp4; sourceTree = "<group>"; };
+		E7E9A7881DEB0D88003ADFA5 /* while.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = while.mp4; sourceTree = "<group>"; };
+		E7E9A7891DEB0D88003ADFA5 /* who.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = who.mp4; sourceTree = "<group>"; };
+		E7E9A78A1DEB0D88003ADFA5 /* whole.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = whole.mp4; sourceTree = "<group>"; };
+		E7E9A78B1DEB0D88003ADFA5 /* why.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = why.mp4; sourceTree = "<group>"; };
+		E7E9A78C1DEB0D88003ADFA5 /* will.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = will.mp4; sourceTree = "<group>"; };
+		E7E9A78D1DEB0D88003ADFA5 /* win.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = win.mp4; sourceTree = "<group>"; };
+		E7E9A78E1DEB0D88003ADFA5 /* wipe.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = wipe.mp4; sourceTree = "<group>"; };
+		E7E9A78F1DEB0D88003ADFA5 /* wood.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = wood.mp4; sourceTree = "<group>"; };
+		E7E9A7901DEB0D88003ADFA5 /* word.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = word.mp4; sourceTree = "<group>"; };
+		E7E9A7911DEB0D88003ADFA5 /* work.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = work.mp4; sourceTree = "<group>"; };
+		E7E9A7921DEB0D88003ADFA5 /* worry.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = worry.mp4; sourceTree = "<group>"; };
+		E7E9A7931DEB0D88003ADFA5 /* worse.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = worse.mp4; sourceTree = "<group>"; };
+		E7E9A7941DEB0D88003ADFA5 /* worth.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = worth.mp4; sourceTree = "<group>"; };
+		E7E9A7951DEB0D88003ADFA5 /* worthless.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = worthless.mp4; sourceTree = "<group>"; };
+		E7E9A7961DEB0D88003ADFA5 /* would.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = would.mp4; sourceTree = "<group>"; };
+		E7E9A7971DEB0D88003ADFA5 /* wrestler.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = wrestler.mp4; sourceTree = "<group>"; };
+		E7E9A7981DEB0D88003ADFA5 /* wrong.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = wrong.mp4; sourceTree = "<group>"; };
+		E7E9A7C91DEB0D9B003ADFA5 /* afternoon.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = afternoon.mp4; sourceTree = "<group>"; };
+		E7E9A7CA1DEB0D9B003ADFA5 /* age.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = age.mp4; sourceTree = "<group>"; };
+		E7E9A7CD1DEB0DA7003ADFA5 /* can.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = can.mp4; sourceTree = "<group>"; };
+		E7E9A7CE1DEB0DA7003ADFA5 /* do.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = do.mp4; sourceTree = "<group>"; };
+		E7E9A7CF1DEB0DA7003ADFA5 /* dog.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = dog.mp4; sourceTree = "<group>"; };
+		E7E9A7D01DEB0DA7003ADFA5 /* doing.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = doing.mp4; sourceTree = "<group>"; };
+		E7E9A7D11DEB0DA7003ADFA5 /* evening.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = evening.mp4; sourceTree = "<group>"; };
+		E7E9A7D21DEB0DA7003ADFA5 /* feeling.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = feeling.mp4; sourceTree = "<group>"; };
+		E7E9A7D31DEB0DA7003ADFA5 /* going.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = going.mp4; sourceTree = "<group>"; };
+		E7E9A7D41DEB0DA7003ADFA5 /* help.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = help.mp4; sourceTree = "<group>"; };
+		E7E9A7D51DEB0DA7003ADFA5 /* hungry.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = hungry.mp4; sourceTree = "<group>"; };
+		E7E9A7D61DEB0DA7003ADFA5 /* i.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = i.mp4; sourceTree = "<group>"; };
+		E7E9A7D71DEB0DA7003ADFA5 /* morning.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = morning.mp4; sourceTree = "<group>"; };
+		E7E9A7D81DEB0DA7003ADFA5 /* name.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = name.mp4; sourceTree = "<group>"; };
+		E7E9A7D91DEB0DA7003ADFA5 /* night.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = night.mp4; sourceTree = "<group>"; };
+		E7E9A7DA1DEB0DA7003ADFA5 /* your.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = your.mp4; sourceTree = "<group>"; };
 		FCBC2827B75E5D8A92B79757 /* Pods-s2t-Nuance.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-s2t-Nuance.debug.xcconfig"; path = "Pods/Target Support Files/Pods-s2t-Nuance/Pods-s2t-Nuance.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -49,7 +196,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				81B729FD1D6C7D28004C8513 /* SpeechKit.framework in Frameworks */,
-				B4E30E99087F4AE4D43103C7 /* libPods-s2t-Nuance.a in Frameworks */,
+				F7A89913C99A4AF91A2AEF7B /* Pods_s2t_Nuance.framework in Frameworks */,
+				E73F046C1DEA2BC6003B28EE /* Alamofire.framework in Frameworks */,
+				E7DD32D21DEA420D0078DB65 /* Alamofire.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -59,6 +208,7 @@
 		81B729DC1D6C790D004C8513 = {
 			isa = PBXGroup;
 			children = (
+				E7DD32D11DEA420D0078DB65 /* Alamofire.framework */,
 				81B729FC1D6C7D28004C8513 /* SpeechKit.framework */,
 				81B729E71D6C790D004C8513 /* s2t-Nuance */,
 				81B729E61D6C790D004C8513 /* Products */,
@@ -87,6 +237,7 @@
 				81B729F41D6C790D004C8513 /* Info.plist */,
 				81B72A0B1D6CBB9C004C8513 /* InfoPlist.strings */,
 				8161699C1D6CC93900F15E52 /* Configuration.swift */,
+				E71E80F21DEAAF8E0076BA8F /* GoogleService-Info.plist */,
 			);
 			path = "s2t-Nuance";
 			sourceTree = "<group>";
@@ -94,6 +245,70 @@
 		81B72A091D6CBB7F004C8513 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				E7E9A7691DEB0D88003ADFA5 /* ass.mp4 */,
+				E7E9A76A1DEB0D88003ADFA5 /* god.mp4 */,
+				E7E9A76B1DEB0D88003ADFA5 /* good.mp4 */,
+				E7E9A76C1DEB0D88003ADFA5 /* google.mp4 */,
+				E7E9A7CD1DEB0DA7003ADFA5 /* can.mp4 */,
+				E7E9A7CE1DEB0DA7003ADFA5 /* do.mp4 */,
+				E7E9A7CF1DEB0DA7003ADFA5 /* dog.mp4 */,
+				E7E9A7D01DEB0DA7003ADFA5 /* doing.mp4 */,
+				E7E9A7D11DEB0DA7003ADFA5 /* evening.mp4 */,
+				E7E9A7D21DEB0DA7003ADFA5 /* feeling.mp4 */,
+				E7E9A7D31DEB0DA7003ADFA5 /* going.mp4 */,
+				E7E9A7D41DEB0DA7003ADFA5 /* help.mp4 */,
+				E7E9A7D51DEB0DA7003ADFA5 /* hungry.mp4 */,
+				E7E9A7D61DEB0DA7003ADFA5 /* i.mp4 */,
+				E7E9A7D71DEB0DA7003ADFA5 /* morning.mp4 */,
+				E7E9A7D81DEB0DA7003ADFA5 /* name.mp4 */,
+				E7E9A7D91DEB0DA7003ADFA5 /* night.mp4 */,
+				E7E9A7DA1DEB0DA7003ADFA5 /* your.mp4 */,
+				E7E9A7C91DEB0D9B003ADFA5 /* afternoon.mp4 */,
+				E7E9A7CA1DEB0D9B003ADFA5 /* age.mp4 */,
+				E7E9A76D1DEB0D88003ADFA5 /* had.mp4 */,
+				E7E9A76E1DEB0D88003ADFA5 /* hair.mp4 */,
+				E7E9A76F1DEB0D88003ADFA5 /* hands.mp4 */,
+				E7E9A7701DEB0D88003ADFA5 /* handsome.mp4 */,
+				E7E9A7711DEB0D88003ADFA5 /* happen.mp4 */,
+				E7E9A7721DEB0D88003ADFA5 /* happy.mp4 */,
+				E7E9A7731DEB0D88003ADFA5 /* has.mp4 */,
+				E7E9A7741DEB0D88003ADFA5 /* he.mp4 */,
+				E7E9A7751DEB0D88003ADFA5 /* height.mp4 */,
+				E7E9A7761DEB0D88003ADFA5 /* hello.mp4 */,
+				E7E9A7771DEB0D88003ADFA5 /* here.mp4 */,
+				E7E9A7781DEB0D88003ADFA5 /* hot.mp4 */,
+				E7E9A7791DEB0D88003ADFA5 /* how.mp4 */,
+				E7E9A77A1DEB0D88003ADFA5 /* hug.mp4 */,
+				E7E9A77B1DEB0D88003ADFA5 /* human.mp4 */,
+				E7E9A77C1DEB0D88003ADFA5 /* job.mp4 */,
+				E7E9A77D1DEB0D88003ADFA5 /* wait.mp4 */,
+				E7E9A77E1DEB0D88003ADFA5 /* was.mp4 */,
+				E7E9A77F1DEB0D88003ADFA5 /* water.mp4 */,
+				E7E9A7801DEB0D88003ADFA5 /* we.mp4 */,
+				E7E9A7811DEB0D88003ADFA5 /* wear.mp4 */,
+				E7E9A7821DEB0D88003ADFA5 /* went.mp4 */,
+				E7E9A7831DEB0D88003ADFA5 /* what.mp4 */,
+				E7E9A7841DEB0D88003ADFA5 /* when.mp4 */,
+				E7E9A7851DEB0D88003ADFA5 /* where.mp4 */,
+				E7E9A7861DEB0D88003ADFA5 /* whether.mp4 */,
+				E7E9A7871DEB0D88003ADFA5 /* which.mp4 */,
+				E7E9A7881DEB0D88003ADFA5 /* while.mp4 */,
+				E7E9A7891DEB0D88003ADFA5 /* who.mp4 */,
+				E7E9A78A1DEB0D88003ADFA5 /* whole.mp4 */,
+				E7E9A78B1DEB0D88003ADFA5 /* why.mp4 */,
+				E7E9A78C1DEB0D88003ADFA5 /* will.mp4 */,
+				E7E9A78D1DEB0D88003ADFA5 /* win.mp4 */,
+				E7E9A78E1DEB0D88003ADFA5 /* wipe.mp4 */,
+				E7E9A78F1DEB0D88003ADFA5 /* wood.mp4 */,
+				E7E9A7901DEB0D88003ADFA5 /* word.mp4 */,
+				E7E9A7911DEB0D88003ADFA5 /* work.mp4 */,
+				E7E9A7921DEB0D88003ADFA5 /* worry.mp4 */,
+				E7E9A7931DEB0D88003ADFA5 /* worse.mp4 */,
+				E7E9A7941DEB0D88003ADFA5 /* worth.mp4 */,
+				E7E9A7951DEB0D88003ADFA5 /* worthless.mp4 */,
+				E7E9A7961DEB0D88003ADFA5 /* would.mp4 */,
+				E7E9A7971DEB0D88003ADFA5 /* wrestler.mp4 */,
+				E7E9A7981DEB0D88003ADFA5 /* wrong.mp4 */,
 				81B72A011D6CBB76004C8513 /* FontAwesome.otf */,
 				81B72A021D6CBB76004C8513 /* sk_error.pcm */,
 				81B72A031D6CBB76004C8513 /* sk_start.pcm */,
@@ -114,7 +329,7 @@
 		F49AAEBAA1F2874988B2C4F2 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				DB4F453774033600A30C21B0 /* libPods-s2t-Nuance.a */,
+				330F2702AFBB213E50325118 /* Pods_s2t_Nuance.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -132,6 +347,7 @@
 				81B729E31D6C790D004C8513 /* Resources */,
 				FC0D97971242BF5131C8404F /* [CP] Embed Pods Frameworks */,
 				76C524530C960540B00C3F6C /* [CP] Copy Pods Resources */,
+				E73F04671DEA242B003B28EE /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
@@ -149,11 +365,13 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
-				LastUpgradeCheck = 0730;
+				LastUpgradeCheck = 0810;
 				ORGANIZATIONNAME = hootyapps;
 				TargetAttributes = {
 					81B729E41D6C790D004C8513 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 468S6LB8MD;
+						LastSwiftMigration = 0810;
 					};
 				};
 			};
@@ -180,15 +398,80 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7E9A7B91DEB0D88003ADFA5 /* who.mp4 in Resources */,
+				E7E9A79D1DEB0D88003ADFA5 /* had.mp4 in Resources */,
+				E7E9A79C1DEB0D88003ADFA5 /* google.mp4 in Resources */,
+				E7E9A7A51DEB0D88003ADFA5 /* height.mp4 in Resources */,
+				E7E9A7E01DEB0DA7003ADFA5 /* feeling.mp4 in Resources */,
+				E7E9A7C41DEB0D88003ADFA5 /* worth.mp4 in Resources */,
+				E7E9A7A71DEB0D88003ADFA5 /* here.mp4 in Resources */,
+				E7E9A79A1DEB0D88003ADFA5 /* god.mp4 in Resources */,
+				E7E9A7AD1DEB0D88003ADFA5 /* wait.mp4 in Resources */,
+				E7E9A7C11DEB0D88003ADFA5 /* work.mp4 in Resources */,
+				E7E9A7A61DEB0D88003ADFA5 /* hello.mp4 in Resources */,
+				E7E9A7991DEB0D88003ADFA5 /* ass.mp4 in Resources */,
+				E7E9A7E21DEB0DA7003ADFA5 /* help.mp4 in Resources */,
+				E7E9A7CB1DEB0D9B003ADFA5 /* afternoon.mp4 in Resources */,
+				E7E9A7B11DEB0D88003ADFA5 /* wear.mp4 in Resources */,
+				E7E9A7B61DEB0D88003ADFA5 /* whether.mp4 in Resources */,
+				E7E9A7E61DEB0DA7003ADFA5 /* name.mp4 in Resources */,
+				E7E9A7BA1DEB0D88003ADFA5 /* whole.mp4 in Resources */,
+				E7E9A7CC1DEB0D9B003ADFA5 /* age.mp4 in Resources */,
+				E7E9A7DC1DEB0DA7003ADFA5 /* do.mp4 in Resources */,
+				E7E9A7A01DEB0D88003ADFA5 /* handsome.mp4 in Resources */,
+				E7E9A7AB1DEB0D88003ADFA5 /* human.mp4 in Resources */,
+				E7E9A7B51DEB0D88003ADFA5 /* where.mp4 in Resources */,
 				81B729FE1D6C7D3D004C8513 /* SpeechKit.framework in Resources */,
+				E7E9A7A21DEB0D88003ADFA5 /* happy.mp4 in Resources */,
+				E7E9A7E31DEB0DA7003ADFA5 /* hungry.mp4 in Resources */,
+				E7E9A7B71DEB0D88003ADFA5 /* which.mp4 in Resources */,
 				81B72A051D6CBB76004C8513 /* FontAwesome.otf in Resources */,
+				E7E9A7DF1DEB0DA7003ADFA5 /* evening.mp4 in Resources */,
+				E7E9A7B81DEB0D88003ADFA5 /* while.mp4 in Resources */,
+				E7E9A7DE1DEB0DA7003ADFA5 /* doing.mp4 in Resources */,
 				81B72A071D6CBB76004C8513 /* sk_start.pcm in Resources */,
+				E7E9A7C81DEB0D88003ADFA5 /* wrong.mp4 in Resources */,
+				E7E9A7BF1DEB0D88003ADFA5 /* wood.mp4 in Resources */,
+				E7E9A7C31DEB0D88003ADFA5 /* worse.mp4 in Resources */,
+				E7E9A7A91DEB0D88003ADFA5 /* how.mp4 in Resources */,
+				E7E9A7E41DEB0DA7003ADFA5 /* i.mp4 in Resources */,
+				E7E9A7E11DEB0DA7003ADFA5 /* going.mp4 in Resources */,
+				E7E9A7A31DEB0D88003ADFA5 /* has.mp4 in Resources */,
+				E7E9A7DB1DEB0DA7003ADFA5 /* can.mp4 in Resources */,
 				81B729F31D6C790D004C8513 /* LaunchScreen.storyboard in Resources */,
+				E7E9A7AE1DEB0D88003ADFA5 /* was.mp4 in Resources */,
+				E7E9A79F1DEB0D88003ADFA5 /* hands.mp4 in Resources */,
+				E7E9A7A41DEB0D88003ADFA5 /* he.mp4 in Resources */,
+				E7E9A7AF1DEB0D88003ADFA5 /* water.mp4 in Resources */,
+				E7E9A7BE1DEB0D88003ADFA5 /* wipe.mp4 in Resources */,
+				E7E9A7E81DEB0DA7003ADFA5 /* your.mp4 in Resources */,
+				E7E9A7C71DEB0D88003ADFA5 /* wrestler.mp4 in Resources */,
 				81B72A081D6CBB76004C8513 /* sk_stop.pcm in Resources */,
+				E7E9A7A11DEB0D88003ADFA5 /* happen.mp4 in Resources */,
+				E7E9A7BB1DEB0D88003ADFA5 /* why.mp4 in Resources */,
+				E7E9A7B31DEB0D88003ADFA5 /* what.mp4 in Resources */,
+				E7E9A7C51DEB0D88003ADFA5 /* worthless.mp4 in Resources */,
+				E7E9A7C21DEB0D88003ADFA5 /* worry.mp4 in Resources */,
+				E7E9A7BD1DEB0D88003ADFA5 /* win.mp4 in Resources */,
+				E7E9A7E51DEB0DA7003ADFA5 /* morning.mp4 in Resources */,
 				81B72A061D6CBB76004C8513 /* sk_error.pcm in Resources */,
+				E7E9A7B21DEB0D88003ADFA5 /* went.mp4 in Resources */,
+				E7E9A7B41DEB0D88003ADFA5 /* when.mp4 in Resources */,
+				E7E9A7C61DEB0D88003ADFA5 /* would.mp4 in Resources */,
+				E7E9A7AC1DEB0D88003ADFA5 /* job.mp4 in Resources */,
+				E7E9A7DD1DEB0DA7003ADFA5 /* dog.mp4 in Resources */,
 				81B729F01D6C790D004C8513 /* Assets.xcassets in Resources */,
+				E7E9A79E1DEB0D88003ADFA5 /* hair.mp4 in Resources */,
 				81B729EE1D6C790D004C8513 /* Main.storyboard in Resources */,
 				81B72A0D1D6CBB9C004C8513 /* InfoPlist.strings in Resources */,
+				E7E9A7C01DEB0D88003ADFA5 /* word.mp4 in Resources */,
+				E7E9A7B01DEB0D88003ADFA5 /* we.mp4 in Resources */,
+				E7E9A7A81DEB0D88003ADFA5 /* hot.mp4 in Resources */,
+				E7E9A79B1DEB0D88003ADFA5 /* good.mp4 in Resources */,
+				E7E9A7AA1DEB0D88003ADFA5 /* hug.mp4 in Resources */,
+				E71E80F31DEAAF8E0076BA8F /* GoogleService-Info.plist in Resources */,
+				E7E9A7BC1DEB0D88003ADFA5 /* will.mp4 in Resources */,
+				E7E9A7E71DEB0DA7003ADFA5 /* night.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -222,7 +505,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
 		FC0D97971242BF5131C8404F /* [CP] Embed Pods Frameworks */ = {
@@ -289,8 +572,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -335,8 +620,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -355,6 +642,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -364,11 +652,14 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = FCBC2827B75E5D8A92B79757 /* Pods-s2t-Nuance.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 468S6LB8MD;
 				INFOPLIST_FILE = "s2t-Nuance/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hootyapps.s2t-Nuance";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hooty.s2t;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -376,11 +667,14 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 338A32BC4634D2CF4C2FA6D5 /* Pods-s2t-Nuance.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 468S6LB8MD;
 				INFOPLIST_FILE = "s2t-Nuance/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hootyapps.s2t-Nuance";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hooty.s2t;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};

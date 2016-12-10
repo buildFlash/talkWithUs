@@ -1,0 +1,6 @@
+framework module Pods_s2t_Nuance {
+  umbrella header "Pods-s2t-Nuance-umbrella.h"
+
+  export *
+  module * { export * }
+}

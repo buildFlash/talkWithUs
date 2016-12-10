@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>638021314034-g8l34hkhc4fqm8bf1ghe381bj1cs09or.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.638021314034-g8l34hkhc4fqm8bf1ghe381bj1cs09or</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBLloXjGxFqS86ChTlwdlJAsr4ptrg8IuA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>638021314034</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hooty.s2t</string>
+	<key>PROJECT_ID</key>
+	<string>talkwithus-c8775</string>
+	<key>STORAGE_BUCKET</key>
+	<string>talkwithus-c8775.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:638021314034:ios:276e6d0fb1591609</string>
+	<key>DATABASE_URL</key>
+	<string>https://talkwithus-c8775.firebaseio.com</string>
+</dict>
+</plist>
